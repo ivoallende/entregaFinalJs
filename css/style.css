@@ -1,0 +1,67 @@
+body{
+    width: 100%;
+    height: auto;
+}
+.formDeInputs{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #939393;
+    box-shadow: 5px 5px black;
+}
+.inputs{
+    width: auto;
+    margin: 15px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+.botonDeFormulario{
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding: 10px 20px;
+    background-color:black;
+    box-shadow: 1px 1px white;
+    color: white;
+    border-radius: 5px;
+}
+
+.secionDeHorarios{
+    
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+.horarios{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.diaDeLaSemana{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:grey;
+    cursor: pointer;
+}

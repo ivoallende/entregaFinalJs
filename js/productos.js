@@ -1,0 +1,33 @@
+const producto = [
+    {
+        id:1,
+        nombre:"Guitarra",
+        precio:1000
+    },
+    {
+        id:2,
+        nombre:"Bajo",
+        precio:900
+    },
+    {
+        id:3,
+        nombre:"Piano",
+        precio:1200
+    },
+    {
+        id:4,
+        nombre:"Bateria",
+        precio:1000
+    },
+    {
+        id:5,
+        nombre:"Flauta",
+        precio:700
+    },
+    {
+        id:6,
+        nombre:"Saxofon",
+        precio:800
+    },
+];
+
